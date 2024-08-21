@@ -1,4 +1,4 @@
-#zaher DDOS
+#AminModz DDOS
 
 import subprocess
 import json
